@@ -84,3 +84,4 @@ print("".join(solution))
 ```
 The answer to this question is "it's a log cabin!!!". 
 
+<img src="https://github.com/adaisyx/lactf22-writeup/blob/main/REV/Finals_Simulator/finals_sim_solve.png">
