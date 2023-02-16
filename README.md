@@ -16,4 +16,9 @@ Writeup for challenges completed in LA CTF 2022. Click to view!
 | 10 | [Guess the bit!](https://github.com/adaisyx/lactf22-writeup/blob/main/CRYPTO/GuessTheBit_Solution.md) | CRYPTO |
 | 11 | [String cheese](https://github.com/adaisyx/lactf22-writeup/blob/main/REV/Strings_and_Caterpillar_Solution.md#challenge-string-cheese) | REV |
 | 12 | [caterpillar](https://github.com/adaisyx/lactf22-writeup/blob/main/REV/Strings_and_Caterpillar_Solution.md#challenge-caterpillar) | REV |
-
+| 13 | [Finals simulator](https://github.com/adaisyx/lactf22-writeup/blob/main/REV/Finals_Simulator/Finals_Simulator.md) | REV |
+| 14 | [Universal](https://github.com/adaisyx/lactf22-writeup/blob/main/REV/Universal/Universal.md) | REV |
+| 15 | [ctfd_plus](https://github.com/adaisyx/lactf22-writeup/blob/main/REV/ctfd_plus/ctfd_plus.md) | REV | 
+| 16 | [Switcheroo](https://github.com/adaisyx/lactf22-writeup/blob/main/REV/Switcheroo/Switcheroo.md) | REV |
+| 17 | [Gatekeep](https://github.com/adaisyx/lactf22-writeup/blob/main/PWN/Gatekeep/Gatekeep.md) | PWN |
+| 18 | [Bot](https://github.com/adaisyx/lactf22-writeup/blob/main/PWN/Bot/Bot.md) | PWN |
