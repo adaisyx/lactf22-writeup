@@ -64,6 +64,7 @@ To answer the second question, the binary does a bunch of math. The solution, x,
 To answer the third question, we need to do more math. The binary takes each character of your input and performs the following operations: 
 1. Multiply by 0x11
 2. Mod by 0xfd
+
 The binary then compares the resultant with a byte string stored in memory that can be dumped. 
 
 To determine the input that would give us the desired byte string, I used the following script: 
