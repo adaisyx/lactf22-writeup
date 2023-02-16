@@ -2,7 +2,7 @@
 ```
 I'm trying out for this new game show, but it doesn't seem that hard since there are only two choices? Regardless, I heard someone name Pollard could help me out with it?
 ``` 
-https://github.com/uclaacm/lactf-archive/blob/main/2023/crypto/guess-the-bit/chall.py#L3-L29
+Click to View: https://github.com/uclaacm/lactf-archive/blob/main/2023/crypto/guess-the-bit/chall.py
 
 ### SOLUTION
 
@@ -24,7 +24,7 @@ Technically, this could likely be shortened to the latter 2 scenarios, but I tho
 
 Moral of the story: If you need to identify whether a number has been multiplied after squaring, you don't need pollard.
 
-https://github.com/adaisyx/lactf22-writeup/blob/main/CRYPTO/GuessTheBit_SolveScript.py#L1-L46
+https://github.com/adaisyx/lactf22-writeup/blob/5b0d94942c1737cc048d4dcb07b03d6c6435e6d9/CRYPTO/GuessTheBit_SolveScript.py#L1-L46
 
 **Flag: lactf{sm4ll_pla1nt3xt_sp4ac3s_ar3n't_al4ways_e4sy}**
 
@@ -40,5 +40,5 @@ This does make sense: Let us observe 4 cases again.
 
 This is a susprisingly simple use of maths~
 
-The official solution also uses the pollard theorem. Maybe someday we'll learn how to use it.
-https://github.com/uclaacm/lactf-archive/blob/main/2023/crypto/guess-the-bit/solve.py
+The [official solution](https://github.com/uclaacm/lactf-archive/blob/main/2023/crypto/guess-the-bit/solve.py) also uses the pollard theorem. Maybe someday we'll learn how to use it.
+
