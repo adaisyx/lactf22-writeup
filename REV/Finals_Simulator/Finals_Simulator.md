@@ -1,9 +1,9 @@
 ## Finals Simulator 
 
-## TL;DR
+#### TL;DR
 Binary asks a bunch of questions -- enter the correct answer and you will get the flag. 
 
-## Decompilation 
+#### Decompilation 
 The binary was decompiled using Ghidra: 
 ```C
 undefined8 main(void)
@@ -80,7 +80,6 @@ for i in range(256):
 for i in enc:
         solution.append(chr(result[i]))
 
-#print(result)
 print("".join(solution))
 ```
 The answer to this question is "it's a log cabin!!!". 
