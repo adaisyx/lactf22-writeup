@@ -55,7 +55,9 @@ My friend sent me this message link that apparently links to a "flag", but disco
 
 Note: Discord phone verification is NOT required for this challenge.
 ```
-https://github.com/uclaacm/lactf-archive/blob/main/2023/misc/discord-leak/embed.png
+<img src="https://github.com/uclaacm/lactf-archive/blob/main/2023/misc/discord-leak/embed.png">
+
+### SOLUTION
 
 The given image hints that embeds are useful. From googling, they seem to be referring to this:
 ```
@@ -70,9 +72,6 @@ I went to a discord server with admin perms and copied the ```server settings > 
 I then put the resultant code in ```https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic``` to view the embed. Thanks, w3schools! From there, it was a simple matter of clicking "Join server" and reading the flag from the starting channel.
 
 **Flag: lactf{D15C0rD_W1D6375_134K_1NV1735}**
-
-
-### SOLUTION
 
 
 ## CHALLENGE: feedback 

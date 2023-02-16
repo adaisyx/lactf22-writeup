@@ -42,7 +42,6 @@ My personal method for solving this was to use ```https://www.dcode.fr/substitut
 However, some may find this time consuming. After the ctf ended, I found a writeup that mentioned ```http://quipqiup.com/```, an automated cryptogram solver which is objectively faster. A useful resource in a crunch. 
 
 Full decrypted text:
-```
-DID YOU KNOW TΗAT JULIUS CAESAR WAS NOT TΗE FIRST PERSON IN ΗISTORY SUSPECTED OF USING ENCRYPTION? ME NEITΗER. DID YOU KNOW TΗAT JULIUS CAESAR WAS PROBABLY FLUENT IN GREEK? ME NEITΗER. I LIKE ΗOW GREEK CΗARACTER LOOK TΗOUGΗ, EVEN IF I CAN'T READ TΗEM
-```
+```DID YOU KNOW TΗAT JULIUS CAESAR WAS NOT TΗE FIRST PERSON IN ΗISTORY SUSPECTED OF USING ENCRYPTION? ME NEITΗER. DID YOU KNOW TΗAT JULIUS CAESAR WAS PROBABLY FLUENT IN GREEK? ME NEITΗER. I LIKE ΗOW GREEK CΗARACTER LOOK TΗOUGΗ, EVEN IF I CAN'T READ TΗEM```
+
 **Flag: lactf{i_guess_using_many_greek_characters_didn't_stop_you._well_played_i_must_say.congrats!}**

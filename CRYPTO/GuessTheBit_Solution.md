@@ -2,7 +2,7 @@
 ```
 I'm trying out for this new game show, but it doesn't seem that hard since there are only two choices? Regardless, I heard someone name Pollard could help me out with it?
 ``` 
-https://github.com/uclaacm/lactf-archive/blob/main/2023/crypto/guess-the-bit/chall.py
+https://github.com/uclaacm/lactf-archive/blob/main/2023/crypto/guess-the-bit/chall.py#L3-L29
 
 ### SOLUTION
 
@@ -23,6 +23,8 @@ Hence, we can deduce 4 scenarios:
 Technically, this could likely be shortened to the latter 2 scenarios, but I thought of the first 2 first and hoped that 50-50s would carry me the rest of the way. Unfortunately, I did have to use my brain more than that, but it worked out. 
 
 Moral of the story: If you need to identify whether a number has been multiplied after squaring, you don't need pollard.
+
+https://github.com/adaisyx/lactf22-writeup/blob/main/CRYPTO/GuessTheBit_SolveScript.py#L1-L46
 
 **Flag: lactf{sm4ll_pla1nt3xt_sp4ac3s_ar3n't_al4ways_e4sy}**
 
